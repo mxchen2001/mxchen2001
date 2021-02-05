@@ -1,16 +1,30 @@
 # Hi there 👋
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mxchen2001&color=blue&label=Profile+Views)
 
-I'm am a student studying Computer Engineering at the University of Texas at Austin. I interned at AAK Tele-Science last summer where I developed a Website Frontend using python and JS and Backend using Flask. I also developed a desktop web app using Electron.js. I'm open for a software engineering internship for 2021.
----
+I'm am a student studying Computer Engineering at the University of Texas at Austin. I interned at AAK Tele-Science last summer where I developed a Website Frontend using python and JS and Backend using Flask. I also developed a desktop web app using Electron.js. I'm open for a software/systems engineering internship for 2021.
 
 [comment]: <EM spaces are used below for whitespace after emojis. Two spaces are placed at the end of each line to create single spacing.>
-🌱 I’m currently learning about Operating Sytems, Algorithms, and Software Engineering and Design and previous had experience with Computer Architecture, Linear Systems and Signals, and Embedded Systems
+🌱 I’m currently learning about Operating Sytems, Algorithms, and Software Engineering and Design and previous had experience with Computer Architecture, Linear Systems and Signals, Circuit Theory, and Embedded Systems
+💬 I have experience with Linear Algebra, Vector Calculus, Differential Equations, Discrete Math, Number Theory, etc.
 💻 I'm experienced with  `C`, `Java`, `C++`, `Python`, `JavaScript`,  `HTML`, and `CSS`.  
-✉️ Reach me at ishan0102@utexas.edu or shoot me a message on [LinkedIn](https://www.linkedin.com/in/ishan0102)!  
-🧗‍♂️ I love bouldering - I try to climb as often as I can.
+📫 Reach me at mxchen2001@utexas.edu or on [LinkedIn](https://www.linkedin.com/in/xige-michael-chen-7a4a45190/)!  
 
-![Ishan's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=mxchen2001&show_icons=true&hide_border=true&count_private=true&hide=stars)
+In my current classes, I'm developing
+- YASH (Yet another Shell)
+  - Full built in C
+  - A shell that has Piping, Backgrounding/Foregrounding, Redirection, multiple Process handling, etc.
+
+In my past classes, I've development
+- Computer Simulator (lc3-b)
+  - Fully built using `C`
+  - Various levels of intergration including Cycle Level, Branch Prediction, Execeptions and Interrupt handling, and Virtual Memory
+- Client Server Bidding Software
+  - Fully built using `Java` including `JavaFX`
+  - A fully functioning multithreaded application
+
+Since these are projects are school related, I am not allowed have them as public repository. If you are interests, please email me or find me on linked.
+
+![Xige Michaels Chen's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=mxchen2001&show_icons=true&hide_border=true&count_private=true&hide=stars)
 
 <!--
 **mxchen2001/mxchen2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

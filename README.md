@@ -22,7 +22,7 @@ In my past classes, I've development
   - Fully built using `Java` including `JavaFX`
   - A fully functioning multithreaded application
 
-Since these are projects are school related, I am not allowed have them as public repository. If you are interests, please email me or find me on linked.
+Since these are projects are school related, I am not allowed have them as public repository. If you are interests, please email me or find me on linkedin.
 
 ![Xige Michaels Chen's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=mxchen2001&show_icons=true&hide_border=true&count_private=true&hide=stars)
 

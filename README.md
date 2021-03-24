@@ -1,7 +1,7 @@
 # Hi there 👋
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mxchen2001&color=blue&label=Profile+Views)
 
-View [My Website](https://mxchen2001.github.io/XigeChenUT/)
+View [My Website](https://mxchen2001.github.io/)
 
 I'm am a student studying Computer Engineering at the University of Texas at Austin. I interned at AAK Tele-Science last summer where I developed a Website Frontend using python and JS and Backend using Flask. I also developed a desktop web app using Electron.js. I'm open for a software/systems engineering internship for 2021. I've was part of a team for [HackTX 2020](https://github.com/ishan0102/hacktx-20). I have a personal project [Venmo Script](https://github.com/mxchen2001/Venmo-Automation) that I use to charge my roommates for utilities.
 

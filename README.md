@@ -1,8 +1,8 @@
 # Hi 👋
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mxchen2001&color=blue&label=Profile+Views)
 
-I'm am a student studying Computer Engineering at the University of Texas at Austin. Check out my [website](https://www.xige.page/).
-Reach me at mxchen2001@utexas.edu or on [LinkedIn](https://www.linkedin.com/in/xige-michael-chen-7a4a45190/)!  
+Check out my [website](https://www.xige.page/).
+Reach me at mxchen2001@gmail.com or on [LinkedIn](https://www.linkedin.com/in/xige-michael-chen-7a4a45190/)!  
 
 ![Xige Michaels Chen's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=mxchen2001&show_icons=true&hide_border=true&count_private=true&hide=stars)
 
